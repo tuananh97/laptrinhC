@@ -1,0 +1,18 @@
+﻿Tạo cơ sở dữ liệu có tên Lab07. Tạo bảng Sinh viên có các thông tin, sinhvienID, Họ và tên, Ngày sinh, Quê, quán, địa chỉ.
+
+Viết chương trình php cho phép quản lý danh sách sinh viên với các chức năng:
+
+1. Hiển thị
+
+2. Thêm mới
+
+3. Sửa thông tin sinh viên được chọn
+
+4. Xóa
+
+5. Tìm kiếm
+
+Giao diện trên một màn hình như mô tá trong tệp Tuần 08.pdf
+
+Thư viện để tham khảo các hàm html ( htmlfunc.php)
+
